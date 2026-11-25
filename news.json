@@ -1,11 +1,65 @@
 {
- "generated": "2026-11-25T10:18:28Z",
+ "generated": "2026-11-25T20:05:01Z",
  "items": [
+  {
+   "t": "Zeus est de retour chez T1 (off.)",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56TlVpdjQ4bGlhZXk1VnNRZlZKV1dJMkVhZEttNUtVa1JJRnA1d25ZakdqZUJDYkgyeDJXUnNnSUJoMS16V1NxaWNYNzJLMDlKV2xjaFcxRVBENFZpUVl6RFBFZTNuNk5pZ1duZng4eFdMdnduQzR0VG5ka0o?oc=5",
+   "src": "E.SPORT.FR",
+   "d": "2026-11-25T12:00:00Z",
+   "leagues": [
+    "lck"
+   ]
+  },
+  {
+   "t": "Esport - League of Legends : La direction de T1 prise pour cible : Sports - Orange",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc0pyZzcxdFY4QS1zeWZVMldVc0NPYVVUN1J1SUs4aDJGR1ZqOTkza1lFT0V6dERJRFFyMS1fTWdjM0hrTU9jT3FTSkk2XzR2Z1ladVZTRHJTNUZ2QWF0T0Z1MHd0dzdkWW8tb0FWeEhCTTFBNVhLanEycHoteFZpZHFKSnJia2VWSnJ5Z3hUTUJ6X1IwMVFRQVczM3p4RG55X2tKYVpTWnlEbVRKYk84Q084Q0tZMUZfZnJ1N004S2VZM1Y5dVNXam10RnN5V0lTZDZrVWFR0gHWAUFVX3lxTE9zSnJnNzF0VjhBLXN5ZlUyV1VzQ09hVVQ3UnVJSzhoMkZHVmo5OTNrWUVPRXp0RElEUXIxLV9NZ2MzSGtNT2NPcVNKSTZfNHZnWVp1VlNEclM1RnZBYXRPRnUwd3R3N2RZby1vQVZ4SEJNMUE1WEtqcTJwei14VmlkcUpKcmJrZVZKcnlneFRNQnpfUjAxUVFBVzMzenhEbnlfa0phWlNaeURtVEpiTzhDTzhDS1kxRl9mcnU3TThLZVkzVjl1U1dqbXRGc3lXSVNkNmtVYVE?oc=5",
+   "src": "Sports - Orange",
+   "d": "2026-11-25T11:17:33Z",
+   "leagues": [
+    "lck"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : rétrospective des fans",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdC1IbEFIdWc4N05ycUsza3lIV21ybXRuRTdFMFR2azhucVE1WG5WUEdDekRFSFBqMDNmdTA1MHREa2Z2VGI2ZjJtOFBzNEtsejJvZzJQcVhlMkdleFd3QWlKZUE4UTZHQUJ4eDh4UEZiRmx4RWdOYXRtUWZ2YzVTdg?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-11-25T08:13:06Z",
+   "leagues": [
+    "worlds"
+   ]
+  },
+  {
+   "t": "PGL Major Singapour : Imperial – FlyQuest en direct",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNC1TdmVHcHFIMXJsZTcwa1BfTlpLUWtCMFkyMW9zNW85MjZZMTdCNTE4NzNkX0Q5S1ZWZEVUNmYyMzAwaWFBalpnX3NHbTBvbE1VZDRONHZ5Qkp6RmtYRXhZTkZHMnFQLWt1TktTTkZCU25xV2o3VUNYOFN2aEl5QmUxeUtWdFRDWm1j?oc=5",
+   "src": "E.SPORT.FR",
+   "d": "2026-11-25T07:50:00Z",
+   "leagues": [
+    "lcs"
+   ]
+  },
+  {
+   "t": "LEC 2026-2027 : du triplé domestique de G2 Esports aux limites internationales, le grand chantier du mercato",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbC1NdFJMZWVxRE9ydWtLbER4bklxSWpWaDBFZ241WmFEY08yUzdsQWFYMW9JdVZHM2IxUTVaVWY4OXRuaDZRdVdMTzNmR3VEdzg0dTNDZldyQ0ZOdzFQSWhJQ0E3N3JOeGczRU5pVWZhdHh0U1FPaFNXLXNMVmNmVDZlNVg5c0dRbDhUME83YlJ5bG80aUtXY0VtQWdFRElWZENlaDVpV0NqWTZ6VkpldE44UEpRdER1WFhwMWRIdzl2MXZVdG5PeUVIMXlhWDh5X0Fsa1ozenNPMzNFdmhMRFlTdnA?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-11-25T06:58:28Z",
+   "leagues": [
+    "lec"
+   ]
+  },
   {
    "t": "Mercato LoL LEC : Shifters bouclerait son effectif 2027 avec le recrutement de Daglas comme jungler",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWFViY0hfMWFjdE9BdklZb2I2d2tCZHNSX1pKUG9zekN1SFlxaXNCOTVibG9SYXlQNEl0clZLX3FUaTV5bnFxR1haT0lRUGd2bDA2Z3JOa0p4SWVPV1lNendaaWtPYTltaTZ1LWN3OUd4OGI4UEtLMlJoOGppRzRVMmNxakktUXdJWGI1ajNzMEdDXzY2VFNfSWhVTUdfazhHSlZUT2dKUXFvb0VWd2JmSWc5c3RCVVhvWnBHbkM2VkFZa0hITzBJOXJtUC1sUDRXWXN2RDJ3Z3RwUQ?oc=5",
    "src": "Team-aAa",
-   "d": "2026-11-25T08:08:32Z",
+   "d": "2026-11-25T06:16:01Z",
+   "leagues": [
+    "lec"
+   ]
+  },
+  {
+   "t": "Movistar KOI vs G2 Esports 2–3 | LEC 2026 Spring Round 3",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSUJfdDZ2RExja2NTQ1RrMTRJbFRkMjBmLXdkZzVmd0R1QVJ5QVNWSDYwczB5LWtteXhIUFZNck5fZlBlbnRSVlVUbTlUNmZjRllyRlhwUXMwaTNVRy1WVXdFTEhkNTgtS3lnV2lXV2x1cEFDSDNXeVJDcHkycHdmQnZLdkpuRzJWXzZsN2ZkSVA1aU5Jdk04d1hFQ1RNZ1RkSF9vNkNRZDc?oc=5",
+   "src": "Sheep Esports",
+   "d": "2026-11-25T00:31:26Z",
    "leagues": [
     "lec"
    ]
@@ -26,6 +80,15 @@
    "d": "2026-11-24T16:01:00Z",
    "leagues": [
     "lec"
+   ]
+  },
+  {
+   "t": "LCK : Gen.G mise sur la jeunesse avec Sharvel, Siwoo et Cloud (off.)",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNako4SUNOTVZBQUx5WWNISVM3bk5OcmVzM3pYblJtSm1nUTdhdUtrekxJZ2t3cTlNOEdTUzRlclJwVUpYb3FCZXhwTXJieHFxelY3WGVhU1pPLTM2R1l4U2J6OWF3eDVjS0w3NGpLSURLN3ZySGRTZlIxYnBoa0ZpeVdDcFRwN3FuSzZOdXYtbDRQRGRfckRpY2dza0szeVJaWXJfdDZsZw?oc=5",
+   "src": "E.SPORT.FR",
+   "d": "2026-11-24T13:00:00Z",
+   "leagues": [
+    "lck"
    ]
   },
   {
@@ -53,6 +116,15 @@
    "d": "2026-11-24T10:27:00Z",
    "leagues": [
     "lec"
+   ]
+  },
+  {
+   "t": "LCS : OpTic Gaming tient sa première recrue",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSFh1RTRFNDJpMlNibm1DY19fS0RTeGZsSi1hdDhyZXhYcGFzSlJrblo1VHdmVGVrZkxLLUhYMW0xMm5rOVRwcVNiRXBRZDZ6MThsSGhWd3JHdE0yWFlyemJaRHI0RXJZUnBPZmhuOFFBOG9NenB4QjRLeVVMbmprNHdZRHdFQVM2WlZn?oc=5",
+   "src": "E.SPORT.FR",
+   "d": "2026-11-23T17:00:00Z",
+   "leagues": [
+    "lcs"
    ]
   },
   {
@@ -92,10 +164,10 @@
    ]
   },
   {
-   "t": "Fnatic vs Movistar KOI 1–2 | LEC 2026",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPejdLU2FlWGFNMUNpRkRVSVFEbkYyNjN5dUVvY3htRU5mVjhuRFJHTmt0UHd3T1h4ZlY4N1RNOWNqLVJDa3ZNYnpxYXhoSHFVSWRidzFzMmdNQk9ma2F6OWQyaE5iLVFmekRkOXpEV0RGMGlwV2pUVVlweE9QSV8tN1QtRnNFWUNvYW40OVNrT0dwMzM0Nm5QYXppMTFjZWRIWmlKTA?oc=5",
-   "src": "Sheep Esports",
-   "d": "2026-11-23T09:55:47Z",
+   "t": "PGL Major Singapore 2026 : le chemin de Vitality, les favoris et tout le programme du Major CS2",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNODBOejBXWGFhd0tUakxDYnNfcXl3clAtb3RGVVpOa3dtVnQyY3NWSmJMMGFtU0Y0QXJpT2hpcFJaZ0ZHMzB6cm1lZlFmNU5ySTBXOXkwV1NUX21OMjVZSzZSdUwzbktGejhydlltUFppdzY3UkdScmt3N0o0ekdPSEFrZml3UWNjU19iaUgycmFYMHNBTlhId3ZCYm9qeVJpWlN0RWJyMGpRNlUyNTN6TkdzYVdwR0dtbEFySzk2TWJ0YWJUNUpycXA3WG16alBXVXZJ?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-11-23T09:29:58Z",
    "leagues": [
     "lec"
    ]
@@ -114,6 +186,24 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdXNsbGVscVhEaUxGekhmSGtVTXZ0Xy12VENRdzktTmUzNExpLTIzNEVfSEJnUnNKVTkwT3U0c01FcnlOTm9EQmJwUDcwc2JXeDJrcTBvcWJkdzBlOWtNV3dZRkV4WF9BWkxTa3FiOUFBOFlHUlVvQUJ2MWJQNk13ajNXNnY5dEdOWjZHb1JVTm9STWpEYkZ1WHladWdLa2Y1X3FTUHd1bFczV25KSm80TTRJQ2k1MTljajN6eVF0ak0?oc=5",
    "src": "Team-aAa",
    "d": "2026-11-22T18:19:54Z",
+   "leagues": [
+    "lec"
+   ]
+  },
+  {
+   "t": "Hanwha Life Esports Academy vs T1 Esports Academy Rookies 1–2 | LCK 2026",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFMzZGhzZ2htZUljSTh1LXpuQWNvSktrSlRmOFJpY2pxUHB4ZkZjTk9SX0RxN042RVN2SXVnNzRVWmhCLXhodlhSa2hPSXVwZFpuUGdFeFVVQ2xjeDM2WTZycUVSbG1nbWpZQ25UQ3QyR0g3cnpXbkhfUExpOWRuZVNtSlBZbnAtdy00X2lpb00wRXVxNHFKeGtYdEdQNnh1YUdyREQ0UnNDQVc5OC0zMjhzcjVsb1E5b19pay1MR1A?oc=5",
+   "src": "Sheep Esports",
+   "d": "2026-11-22T16:12:17Z",
+   "leagues": [
+    "lck"
+   ]
+  },
+  {
+   "t": "Karmine Corp vs G2 Esports 1–3 | LEC 2026 Spring Round 1",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0cxckZZaHVnSnJNSXp2QW9veXZ2TUNuZXB1STZGVHlLRTEzRUNkajE1YlFwN2EtTlktWC1lUWx4bDJZTHk5NTRuQm1kcFcyOXM3ZThKRWV2UFN2SVFpdFdWTW5jTVdNTDRuNUlRVUZxOFFMTVZiWUJxY18wSWlOc201dmlOb25Qd3NFVTNLbWhDTkdTTTlOdGFQVGp0Q0J0eVk3c3ZaMHd1VFE?oc=5",
+   "src": "Sheep Esports",
+   "d": "2026-11-22T12:56:10Z",
    "leagues": [
     "lec"
    ]
@@ -150,6 +240,15 @@
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3NrSlI1NEc4V2xsSjE4SjlYUGhsSkdwM3I1TDBtbEUyYk5iVGdzdXU3QjRzd3R3YlUxSENkdUNnZzVDaEl4dTU3OVo0Uy1nbHBoVHJDQnZyQXVVekVuZjhiYndHdDlSdjdET3dGRzZLeUx4aDFudnZ5YWlrcWIzTnBiT2Zlem42UGlr?oc=5",
    "src": "Team-aAa",
    "d": "2026-11-22T07:56:37Z",
+   "leagues": [
+    "worlds"
+   ]
+  },
+  {
+   "t": "Worlds 2026 : la proview de Bin, finale game 3",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQmtVOExuVEtacEpPOHE0MXI4UW5GVGxINGZqS1VYUk0wZThZRVhoclVaV2s1aGx1WGw3YmFXRnVoRUNyZm5EdEhZT2JYSmNnVEJBWHZGcEl1MmdfU2M5ekczNjgzdmthNFRqMmpxdVNHNlNBOU54WmltaW5fRFNSSEFVOFlZc1JreFI3ZA?oc=5",
+   "src": "Team-aAa",
+   "d": "2026-11-22T07:52:01Z",
    "leagues": [
     "worlds"
    ]
@@ -228,12 +327,12 @@
    ]
   },
   {
-   "t": "Team Heretics vs SK Gaming 2–0 | LEC 2026",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWFjTUk4eC1Ed1dlaVBVVS1fdkd0UjhlQjh2VDB3dmtVTDlPNDIza2ZkZ2V6eFFNb3k2TUQ4RXp6Y184WkdsRkF5MUV4em82MkwxU1FmNldhS3cydzZqcmpWcDB0VnZHZ3BmU29nSTByVHRWQkZWd3V2aDc4MFFuaWRYZHF0VzA5TzlWWGZYdnludWFPSzZkYnpWSUF1aERwVndPQ3F3?oc=5",
-   "src": "Sheep Esports",
-   "d": "2026-11-20T17:10:17Z",
+   "t": "Dplus KIA recrute Doran et Kanavi en LCK 2027 avec ShowMaker",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ0hKMnh5QjY0cWpyLWVBcHNBTkRVajdYMm1BR090Y1VSbGtIQ2pyRUtPeFd6Y3RGZlBGdDQ2NDJCU2NhRDNjYzlHMlRMQzVDTlBJNEJ0VmtQU0NSMjVQMDZtNzVYLXd4Q2lxa0xKV0NaVTdkLTVpMWEtU2YxWFFXU0U0VQ?oc=5",
+   "src": "pro-gamer.fr",
+   "d": "2026-11-20T17:15:08Z",
    "leagues": [
-    "lec"
+    "lck"
    ]
   },
   {
@@ -261,106 +360,6 @@
    "d": "2026-11-20T12:46:18Z",
    "leagues": [
     "lck"
-   ]
-  },
-  {
-   "t": "Mercato LoL LEC : Memento serait le favori pour devenir le nouveau Head Coach de Fnatic pour la saison 2027",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0NzbUc1TUVSUmdMYVZDNU8yM0lCNkhYZEZfdmJJQmN6MExibUJDUERlZWx3Q0FsVV93NjZmeFZoV1RnYzF4VFVBS3hvM25FM21SQWhGdEFHRHQwbXl6YTJ6SE40dlhLQnJrcDhGNkx0LThQbWFJTUIxNXVQYWhRd1NubXRTY0xwM0JCQ1FwVFEwM2k5cFBYWlhjZGIzX2dEdDRrUUtualNuU2VWYnhzdWU3dFBXeGpOXzZKdlhmVlR1bHJFeGh6NHZBMXdHZ2hxdzRhTnAyU3pJcEJRalRqeFhNWWk?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-11-20T12:00:57Z",
-   "leagues": [
-    "lec"
-   ]
-  },
-  {
-   "t": "Mercato LoL LEC : Shifters ferait revenir Kamiloo sur la midlane pour la saison 2027",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN1NIYmxyMzBfX3Rna0hNaDVIdGpBdGlIRHh6QWlCelR1RF9QYWJrWTFONGh0eEQtaGZNYVZkZWFYNlQ4eTN5VjBEVWRBWVNBb3pZR2lfaU5fTHlFcm5tSlRSQnBWb28wWExSQjdTUE1XU0RXMzRvSS1vSDVZWmRnUGhwdXZhVXg4QU5jbm96aDhCZmUwcTM1emVuWl8tc3JXWnhBTU16cXlRbV9DNVN6WDVnY3pteFlnNzQ3N3ZvRXNIZw?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-11-20T10:12:04Z",
-   "leagues": [
-    "lec"
-   ]
-  },
-  {
-   "t": "Mercato LoL LEC : Shifters lancerait sa reconstruction avec le recrutement de SamD",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU0hGaFcwZUFOQ1hNRVl4X3kwLTFvbkhOdVh1ZGZxTDVpUFBEVEwtOHBYUVN6eWhla3NLclFOM1h0SWREMTRaREJGQjlac1ZqUlY2Z29fU1hfaG1UdE8yNVZZRnROT2ZXLVd1QllQb0FwYzVTRmhVcnpSRXhLV0oyXzhEMExTd0VoWlBDXzBTb1cxWXdXN3d6eXJUXzRIV1dkamdubUNfUkxVUE1ablhkRC1yMGZ4bndrU1h1c2oteVhlaVU?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-11-20T09:39:11Z",
-   "leagues": [
-    "lec"
-   ]
-  },
-  {
-   "t": "Karmine Corp, G2, Fnatic… tous les rosters du LEC pour 2027",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmh3Wkh3WExRNW43NUw2NGNMU183cWlxNmZ6WWZpcWFVdldmbV9pS195emR1dDJqTGVWdHZmQUlBdTY2djlVSE5JdzJ3aUxZWElxc1RrV01vZmlqd1pnMXZDRW52MGdMV2oxSW1abkZhUmQtUEVyWl8zZDZqZmZ2Wjc4M1lHS25XMkU4T0wxdmRBblRnTTdDN2RTNFZyNDQ?oc=5",
-   "src": "E.SPORT.FR",
-   "d": "2026-11-20T09:00:00Z",
-   "leagues": [
-    "lec"
-   ]
-  },
-  {
-   "t": "Mercato LoL LCK : Kiwoom DRX fait table rase pour 2027 et viserait Lucid ainsi que Duro",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOanMxV2JQOEpxclpDcXJfWTE3VzhxZ2h1MWYwcUhhNjM1eVpYTGwwOTktZmZHc25GVlp5NEFpMktyMzZ4enZfa0IxZGdwSnBYT1Z0bWEtOTRzaFp1azdrZEI2LXM4X2dzcXQ1YlF6REFLZEZuYlZDYTFTQmJjUDlQZDZZaTZacXBiek9PajJrSzFPMTNmUmRTX3NSNVlPMXJxWldPRm5PUGg3RVhiUDBOOWZYQVFtcVFJNU9oZnNLRXZBSjRpUVpCMw?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-11-20T07:18:18Z",
-   "leagues": [
-    "lck"
-   ]
-  },
-  {
-   "t": "Mercato LoL LEC : Reapered quitte la Karmine Corp, et devrait rejoindre Shopify Rebellion en LCS",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMnpGTkJGbHp1UVVQS1FpWnB5R3VPN3QyazhqWmczWTFZQWpaeTEzREFCbkZweWdoNXZMNkRfS1JWa193RXZ0UUgyYlB0RVY0ZGJydkFPTjRVUC10dmV5RXFFWE1vcWl1MURMaHBseUFVcG13cEItM2JrdmliMHF0VTdjaWx6UDU3MTJTQzBrenluYURBdUMxclBMRjdqSWRxbUJpeXBodzhnMTNmYXQxeUtwdHljY01nYVZ5UHhMQWJzcnQyYmxvZTNlLTVBRjRuZ1E?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-11-20T05:21:35Z",
-   "leagues": [
-    "lec",
-    "lcs"
-   ]
-  },
-  {
-   "t": "Mercato LoL LEC : Team Vitality officialise les départs de FIESTA et Fleshy",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY1U1NmxNem0zVWNVV0Q5cG4wWUVBQWN6T0lyYkVWQnVwbzdmTk5qemc4ZFlqMU5fUkpCRUlrUld6UTEwM2o2RzF2cUpqaU1kbTJwZVp0VVJBU2pVYTR6RlUyZDdTMUhWUFBXNndRNDZyUEVLRkhpdmJ6U01OUExMb01UZ3VMNlRxcTBHNEZLVGRnQzA2ZGFuSTlSZElQaHFwS3lPb2hVWVpWazRQMEZBUDh0MV9JeU9UR1E?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-11-19T17:52:00Z",
-   "leagues": [
-    "lec"
-   ]
-  },
-  {
-   "t": "LCS : Shopify Rebellion boucle son roster avec Clear",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUVKdmpFR1JPRWktd2Q0dlZXZFNkUXE0WUNJeGEyUzgtZnhlZ1VDY2d6MkR4eXVjc0h5U3dHSzljS1kwUlZQR1pqVUxpcDBKYWNUQ3g4NktIWGpfMzZNWkE5WGxKZXZwc1AxX1RpZllYV0tPOWRIQjhuVVVXeXQ0bHVFcFdhdGNSSS15OXhqTG1jZkNlUjd3?oc=5",
-   "src": "E.SPORT.FR",
-   "d": "2026-11-19T17:00:00Z",
-   "leagues": [
-    "lcs"
-   ]
-  },
-  {
-   "t": "Mercato LoL LEC : Targamas aurait trouvé un accord verbal pour rejoindre Team Vitality en 2027",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVk8zOUNRZnpqNi1TYkpvUkp1X2ZERkxDb0pLcEZMOFNQUzEyYzJ1anpkTXpMcEhZMDk5UXdES09PcUhCcFhCcC14aTRMcWtxX1JKcU0xU0dLT2toNG9VQUI4SVhseGlTbUpjNlhSWXVPM09SY0RENFpkZks1WGl4d3EwVVZrTVNWaUxRZ3ZwQnk3Tmk0Sl8yN2M0ZG85VmNSV1BELWhzZ1Vfand1NTJHNnpmdk5nQlhHV1kzeUxpenlqQjNUSlpIUWo5a21ISElOUFBF?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-11-19T14:47:18Z",
-   "leagues": [
-    "lec"
-   ]
-  },
-  {
-   "t": "Mercato LoL LEC : SK Gaming libère l'intégralité de son effectif League of Legends",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSTVRckEyM0pUVGNlWTBUc2pEZ1B1Z2xOTF9xTUlfeC1NNnZscU1pRURRSHhxUWNncmhDczVJVk8zQTB4QzBxVmJ1VGhaZjZKT2ZLQno1Qy1ySG9oUGhaRFBhTWkxX19fLTdreFlPeFNXaDRaakZ2ZmNuWXJJdU05U0RZaHVobkU0SXBtR3lIeHdNZFdjT0dJYThSNFVUZW1heER4ZjNHcXlWMFI4bWJwQ2VIdjktZzA3ZnEzR1lrY09Zdw?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-11-19T14:39:00Z",
-   "leagues": [
-    "lec"
-   ]
-  },
-  {
-   "t": "Worlds 2026 : la proview de Viper, finale game 4",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN28xaVQ0ZFBQbXB4Y1dQLWtyQ29IVjNidU9HMjVTN1NvSGZHbnQteVJtWTBUTF9QeDVKWFVEVURXOEROcDBiakVMOEZjWDhFV2tKSlB4bWR1aDJ5WS1veDFpR1MxNjZuelRJS2dJNHl3anZVM0JqTkxLY1lvTmtNUDRoMHlxbnVZR1I0MEtZSQ?oc=5",
-   "src": "Team-aAa",
-   "d": "2026-11-19T13:12:17Z",
-   "leagues": [
-    "worlds"
    ]
   }
  ]
